@@ -32,7 +32,7 @@ public class MainWindow extends JFrame{
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 2886798694986593005L;
+	//private static final long serialVersionUID = 2886798694986593005L;
 	private InvertedIndex invertedIndex;
 	JPanel panel = new JPanel();
 	public MainWindow(InvertedIndex invertedIndex) {
